@@ -29,3 +29,4 @@ pnpm install
 pnpm dev --host
 # Site runs at http://localhost:3000
 
+```
